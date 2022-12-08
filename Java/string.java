@@ -1,3 +1,5 @@
+package Java;
+
 class Text {
  public static void main(String[] args) {
  String hello = "Hello, Selamat Datang di Program Studi Ilmu Komputer!!!";

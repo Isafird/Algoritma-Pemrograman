@@ -1,4 +1,6 @@
-public class Integer {
+package Java;
+
+public class integer {
 public static void main (String [] args){
 byte value_byte = 100;
 short value_short = 30000;
